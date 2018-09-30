@@ -25,4 +25,5 @@ html, body, #root{
   height: 320px;
   background: #dedede;
   transition: all 0.5s;
+  user-select: none;
 }
